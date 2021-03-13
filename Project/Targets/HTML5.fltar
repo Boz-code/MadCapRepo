@@ -8,7 +8,8 @@
   ConditionTagExpression="include[Default.ScreenOnly or Default.Web], exclude[Default.PrintOnly]"
   ShowMadCapBacklink="false"
   MasterToc="/Project/TOCs/Online_help.fltoc"
-  MasterStylesheet="/Content/Resources/Stylesheets/GlobalMainStyles.css">
+  MasterStylesheet="/Content/Resources/Stylesheets/GlobalMainStyles.css"
+  GetLatestBeforeCompile="false">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
