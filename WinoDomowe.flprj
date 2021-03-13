@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains several starter topics and other files intended for both online and print-based output. The online HTML5 output uses a traditional tripane format; one frame holds the navigation panes, a second frame displays search and a toolbar, and the third frame contains the topic content. Responsive output is automatically enabled, which means the content display changes automatically depending on the width of the screen. The PDF output is a user guide that includes auto-generation of a TOC, glossary, and index." MasterToc="/Project/TOCs/Opis_produktu.fltoc" ExcludePattern="*.swf" IncludePattern="*.*" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="false" DeleteStale="true" DeleteUnreferenced="false" LastImport="2021-03-13T12:46:03.0676706+01:00" SourceControlProviderType="Git" ProjectGuid="4066c20b-2c4c-42a5-8e47-f0a1c72d6a21">
+    <Files>
+        <Url Source="file:///C:/Git/Madcap Flare/Ivanhoe/Ivanhoe.flprj" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Ivanhoe.flprj" />
+    </Files>
+    <ExcludedFiles />
+    <CollectedSourceFiles>
+        <Url Source="../Ivanhoe/Content/GlobalHome.htm" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/GlobalHome.htm" />
+        <Url Source="../Ivanhoe/Content/GlobalSample Landing Topic.htm" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/GlobalSample Landing Topic.htm" />
+        <Url Source="../Ivanhoe/Content/A_Introduction Topics/GeneralBasic Steps.htm" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/A_Introduction Topics/GeneralBasic Steps.htm" />
+        <Url Source="../Ivanhoe/Content/A_Introduction Topics/GeneralGetting Started.htm" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/A_Introduction Topics/GeneralGetting Started.htm" />
+        <Url Source="../Ivanhoe/Content/A_Introduction Topics/GeneralWhats New.htm" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/A_Introduction Topics/GeneralWhats New.htm" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" />
+        <Url Source="../Ivanhoe/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+        <Url Source="../Ivanhoe/Content/Resources/MasterPages/GlobalHomePage.flmsp" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/MasterPages/GlobalHomePage.flmsp" />
+        <Url Source="../Ivanhoe/Content/Resources/MasterPages/GlobalOtherTopics.flmsp" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/MasterPages/GlobalOtherTopics.flmsp" />
+        <Url Source="../Ivanhoe/Content/Resources/Stylesheets/GlobalMainStyles.css" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Stylesheets/GlobalMainStyles.css" />
+        <Url Source="../Ivanhoe/Content/Resources/Stylesheets/GlobalStylesForHomePage.css" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Content/Resources/Stylesheets/GlobalStylesForHomePage.css" />
+        <Url Source="../Ivanhoe/Project/ConditionTagSets/GlobalGeneral.flcts" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Project/ConditionTagSets/GlobalGeneral.flcts" />
+        <Url Source="../Ivanhoe/Project/Glossaries/GlobalGlossary.flglo" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Project/Glossaries/GlobalGlossary.flglo" />
+        <Url Source="../Ivanhoe/Project/Skins/GlobalTopicToolBar.flskn" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Project/Skins/GlobalTopicToolBar.flskn" />
+        <Url Source="../Ivanhoe/Project/VariableSets/GlobalGeneral.flvar" AbsoluteSource="file:///C:/Git/Madcap Flare/Ivanhoe/Project/VariableSets/GlobalGeneral.flvar" />
+    </CollectedSourceFiles>
+    <SkippedSourceFiles />
+    <GeneratedFiles>
+        <Url Source="Content/GlobalHome.htm" TimeStamp="13.03.2021 12:38:21" />
+        <Url Source="Content/GlobalSample Landing Topic.htm" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/A_Introduction Topics/GeneralBasic Steps.htm" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/A_Introduction Topics/GeneralGetting Started.htm" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/A_Introduction Topics/GeneralWhats New.htm" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-down-black.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-down-gray.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-left-black.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-left-gray.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-right-black.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-right-gray.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-up-black.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/Icons/Arrows/arrow-up-gray.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/MasterPages/GlobalHomePage.flmsp" TimeStamp="13.03.2021 12:38:09" />
+        <Url Source="Content/Resources/MasterPages/GlobalOtherTopics.flmsp" TimeStamp="13.03.2021 12:31:37" />
+        <Url Source="Content/Resources/Stylesheets/GlobalMainStyles.css" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Content/Resources/Stylesheets/GlobalStylesForHomePage.css" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Project/ConditionTagSets/GlobalGeneral.flcts" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Project/Glossaries/GlobalGlossary.flglo" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Project/Skins/GlobalTopicToolBar.flskn" TimeStamp="01.03.2021 12:40:18" />
+        <Url Source="Project/VariableSets/GlobalGeneral.flvar" TimeStamp="01.03.2021 12:40:18" />
+    </GeneratedFiles>
+</CatapultProject>

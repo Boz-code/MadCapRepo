@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:lastBlockDepth="10" MadCap:lastHeight="517" MadCap:lastWidth="1119">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="" />
+        <meta name="author" content="" /><title></title>
+        <link href="../Stylesheets/GlobalStylesForHomePage.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="contentBody" class="off-canvas-main">
+            <MadCap:bodyProxy />
+            <div class="footer center">
+                <div class="home-master-page-footer">
+                    <div>
+                        <p>&#160;</p>
+                        <p>FOLLOW&#160;US</p>
+                        <table style="width: 100%;">
+                            <col />
+                            <col />
+                            <col />
+                            <col />
+                            <tbody>
+                                <tr>
+                                    <td><a href="[%=GlobalGeneral.Facebook%]" target="_blank">&#160;</a>
+                                    </td>
+                                    <td>
+                                        <p><a href="[%=GlobalGeneral.Twitter%]" target="_blank">&#160;</a>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p><a href="[%=GlobalGeneral.Instagram%]" target="_blank">&#160;</a>
+                                        </p>
+                                    </td>
+                                    <td>
+                                        <p><a href="[%=GlobalGeneral.LinkedIn%]" target="_blank">&#160;</a>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div>
+                        <p>
+                            <img src="../Images/Assets/PlaceholderLogo/PlaceholderLogo-white.png" />
+                        </p>
+                        <p><MadCap:variable name="GlobalGeneral.CompanyName" />
+                        </p>
+                    </div>
+                    <div>
+                        <p>&#160;</p>
+                        <p><MadCap:variable name="GlobalGeneral.Email" />
+                        </p>
+                        <p><MadCap:variable name="GlobalGeneral.PhoneNumber" />
+                        </p>
+                        <p><MadCap:variable name="GlobalGeneral.StreetAddress" /> <MadCap:variable name="GlobalGeneral.CityStateZip" /></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
